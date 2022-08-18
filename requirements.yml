@@ -3,3 +3,11 @@
     scm: git
     version: "1.0.1"
     name: java 
+  - src: git@github.com:Darkpunks/netology_elastic_role.git
+    scm: git
+    version: "master"
+    name: netology_elastic_role 
+  - src: git@github.com:Darkpunks/netology_kibana_role.git
+    scm: git
+    version: "master"
+    name: kibana_role
